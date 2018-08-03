@@ -1,6 +1,19 @@
+h1{
+	margin: 0 0;
+	padding: 20px 20px 10px 20px;
+	background-color: #508DDE;
+	text-transform: uppercase;
+}
+
+ul{
+	list-style-type: none;
+	margin: 0 0;
+	padding: 0 0;
+}
+
 #container{
 	width: 360px;
-	margin: 0 auto;
+	margin: 100px auto;
 	border: 2px solid purple;
 }
 
